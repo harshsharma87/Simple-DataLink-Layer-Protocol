@@ -9,7 +9,7 @@ The Data link layer is the second layer in Open System Interconnection (OSI) mod
 • It defines the format of the packets exchanged between the nodes at the ends of the link and taken by these nodes when sending and receiving packets.
 • The packets exchanged are called frames and that each Data Link-layer frame typically encapsulates one network-layer datagram.
 
-**PROJECT DEMONSTRATION LINK**
+**Demo Link**
 https://youtu.be/Hnsu2JvqtPk
 
 **Project Goal:**
@@ -24,9 +24,9 @@ https://youtu.be/Hnsu2JvqtPk
 • To read a jpeg image in binary format using computer or telephone and pack the bit stream into I frames with a size of 1024 bit. The received image should be an image without distortion.
 
 **FRAME CONFIGURATION**
-Header - 01111110 
-Divisor - 11001
-Payload -  1024 bits
+Header - 01111110 ;
+Divisor - 11001 ;
+Payload -  1024 bits ;
 Frame Counter - 1 Byte
 
 **LEARNING FROM THE PROJECT**
